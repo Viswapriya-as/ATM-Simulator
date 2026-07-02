@@ -1,0 +1,2 @@
+1001 | Account created with initial deposit: 5000.0
+1001 | Deposited: 2000.0 | New Balance: 7000.0
